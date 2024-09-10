@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenZAST
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript and flutter/DART
+- 🌱 I’m currently learning Javascript/Typescript, flutter/DART and Headless-CMS
 - 💞️ I’m looking to collaborate on any project to enhance my problem solving skills
 - 📫 How to reach me "just write me"☺️
 - 😄 Pronouns: Stephen
