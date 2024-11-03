@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @StephenZAST
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript/Typescript, flutter/DART and Headless-CMS
+- 👀 I’m software engineer
+- 🌱 I’m currently mastering python, JS/Typescript, Reast API/GraphQl App and Headless-CMS
 - 💞️ I’m looking to collaborate on any project to enhance my problem solving skills
 - 📫 How to reach me "just write me"☺️
 - 😄 Pronouns: Stephen
-- ⚡ Fun fact: i can do a back-flip
+- ⚡ Fun fact: Stay focus
 
 <!---
 StephenZAST/StephenZAST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
