@@ -146,51 +146,54 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
         <br>Webpack
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667">
-          <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="45" height="45" alt="Python" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=cassandra">
+          <img src="https://skillicons.dev/icons?i=cassandra" width="45" height="45" alt="Cassandra" />
         </a>
-        <br>Python
+        <br>Cassandra
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667">
-          <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="45" height="45" alt="JavaScript" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=express">
+          <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
         </a>
-        <br>JavaScript
+        <br>Express
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667">
-          <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="45" height="45" alt="TypeScript" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=firebase">
+          <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
         </a>
-        <br>TypeScript
+        <br>Firebase
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=git">
+          <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        </a>
+        <br>Git
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73">
-          <img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="45" height="45" alt="Node.js" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=mysql">
+          <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
         </a>
-        <br>Node.js
+        <br>MySQL
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
-          <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="45" height="45" alt="React" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=nginx">
+          <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
         </a>
-        <br>React
+        <br>Nginx
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462">
-          <img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="45" height="45" alt="MongoDB" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=oracle">
+          <img src="https://skillicons.dev/icons?i=oracle" width="45" height="45" alt="Oracle" />
         </a>
-        <br>MongoDB
+        <br>Oracle
       </td>
       <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573">
-          <img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="45" height="45" alt="PostgreSQL" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=sqlite">
+          <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
         </a>
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96cc4a41c567b4afac90f4e4421835cf70c6cfb0c0d205ed8890bb90d11e9a5b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676370">
-          <img src="https://camo.githubusercontent.com/96cc4a41c567b4afac90f4e4421835cf70c6cfb0c0d205ed8890bb90d11e9a5b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676370" width="45" height="45" alt="PostgreSQL" />
-        </a>
+        <br>SQLite
       </td>
     </tr>
   </tbody>
