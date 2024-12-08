@@ -16,6 +16,33 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
 
 <table align="center">
   <tbody>
+      <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a860f29a5b985c8efb9618ca0f2e7d64d749845847c8950f2c0ba4e71081afd6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d666c7574746572"><img src="https://camo.githubusercontent.com/a860f29a5b985c8efb9618ca0f2e7d64d749845847c8950f2c0ba4e71081afd6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d666c7574746572" width="45" height="45" alt="Flutter" data-canonical-src="https://skillicons.dev/icons?i=flutter" style="max-width: 100%;"></a>
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></a>
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"></a>
+      <br>C++
     <tr>
       <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83b087d16adea98fc12fcf1105322c7c4741060cf57eedcaf960762695461ef6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374"><img src="https://camo.githubusercontent.com/83b087d16adea98fc12fcf1105322c7c4741060cf57eedcaf960762695461ef6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=rust" style="max-width: 100%;"></a>
@@ -92,10 +119,6 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
-      <br>Python
-    </td>
-    <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a>
       <br>Django
     </td>
@@ -159,29 +182,6 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c68bb28b0da51cd56ff4f358c3d62647680f1c95b43c1a3b86f22c85f078aec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73716c697465"><img src="https://camo.githubusercontent.com/5c68bb28b0da51cd56ff4f358c3d62647680f1c95b43c1a3b86f22c85f078aec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73716c697465" width="45" height="45" alt="SQLite" data-canonical-src="https://skillicons.dev/icons?i=sqlite" style="max-width: 100%;"></a>
       <br>SQLite
     </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a860f29a5b985c8efb9618ca0f2e7d64d749845847c8950f2c0ba4e71081afd6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d666c7574746572"><img src="https://camo.githubusercontent.com/a860f29a5b985c8efb9618ca0f2e7d64d749845847c8950f2c0ba4e71081afd6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d666c7574746572" width="45" height="45" alt="Flutter" data-canonical-src="https://skillicons.dev/icons?i=flutter" style="max-width: 100%;"></a>
-      <br>Flutter
-    </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></a>
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"></a>
-      <br>C++
     </td>
     </tr>
   </tbody>
