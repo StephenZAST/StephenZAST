@@ -16,6 +16,7 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
 
 <table align="center">
   <tbody>
+  <tr>
       <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
       <br>Python
@@ -43,8 +44,8 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"></a>
       <br>C++
-    <tr>
-      <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83b087d16adea98fc12fcf1105322c7c4741060cf57eedcaf960762695461ef6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374"><img src="https://camo.githubusercontent.com/83b087d16adea98fc12fcf1105322c7c4741060cf57eedcaf960762695461ef6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72757374" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=rust" style="max-width: 100%;"></a>
       <br>Rust
     </td>
@@ -52,6 +53,7 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/294d185a3a7e4a84c9a664f96b511ff7aaf29c7f01ef63f60a5f7b8e6afef769/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f"><img src="https://camo.githubusercontent.com/294d185a3a7e4a84c9a664f96b511ff7aaf29c7f01ef63f60a5f7b8e6afef769/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=go" style="max-width: 100%;"></a>
       <br>Golang
     </td>
+    </tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b2bbb3dc5a0ce1a6880849c330ca48dffeae14f8907a2595a42d615d455301d9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6163746978"><img src="https://camo.githubusercontent.com/b2bbb3dc5a0ce1a6880849c330ca48dffeae14f8907a2595a42d615d455301d9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6163746978" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=actix" style="max-width: 100%;"></a>
       <br>Actix
