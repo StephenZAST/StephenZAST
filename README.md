@@ -53,11 +53,12 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/294d185a3a7e4a84c9a664f96b511ff7aaf29c7f01ef63f60a5f7b8e6afef769/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f"><img src="https://camo.githubusercontent.com/294d185a3a7e4a84c9a664f96b511ff7aaf29c7f01ef63f60a5f7b8e6afef769/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=go" style="max-width: 100%;"></a>
       <br>Golang
     </td>
-    </tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b2bbb3dc5a0ce1a6880849c330ca48dffeae14f8907a2595a42d615d455301d9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6163746978"><img src="https://camo.githubusercontent.com/b2bbb3dc5a0ce1a6880849c330ca48dffeae14f8907a2595a42d615d455301d9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6163746978" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=actix" style="max-width: 100%;"></a>
       <br>Actix
     </td>
+    </tr>
+    <tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96cc4a41c567b4afac90f4e4421835cf70c6cfb0c0d205ed8890bb90d11e9a5b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676370"><img src="https://camo.githubusercontent.com/96cc4a41c567b4afac90f4e4421835cf70c6cfb0c0d205ed8890bb90d11e9a5b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676370" width="45" height="45" alt="Next.js" data-canonical-src="https://skillicons.dev/icons?i=gcp" style="max-width: 100%;"></a>
       <br>GCP
@@ -86,8 +87,6 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a>
       <br>RESTful API
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
       <br>React
@@ -100,6 +99,8 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667"><img src="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/gatsby-icon.svg" style="max-width: 100%;"></a>
       <br>Gatsby
     </td>
+    </tr>
+    <tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565"><img src="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="45" height="45" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%;"></a>
       <br>Vue
@@ -124,8 +125,6 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a>
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4bcf257d965dc24378411c30023a5fd7d5123415fd72e86a0dc615dd4d8eb82b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6433"><img src="https://camo.githubusercontent.com/4bcf257d965dc24378411c30023a5fd7d5123415fd72e86a0dc615dd4d8eb82b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6433" width="45" height="45" alt="D3.js" data-canonical-src="https://skillicons.dev/icons?i=d3" style="max-width: 100%;"></a>
       <br>D3.js
@@ -142,6 +141,8 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="45" height="45" alt="html" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
       <br>HTML
     </td>
+    </tr>
+    <tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="45" height="45" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
       <br>CSS
@@ -166,8 +167,6 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e314ae0bc4aa8f1261feca139468124f082c36ef7be4c12a2a0e0b3772b6a5c2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d736f6c6964697479"><img src="https://camo.githubusercontent.com/e314ae0bc4aa8f1261feca139468124f082c36ef7be4c12a2a0e0b3772b6a5c2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d736f6c6964697479" width="45" height="45" alt="Solidity" data-canonical-src="https://skillicons.dev/icons?i=solidity" style="max-width: 100%;"></a>
       <br>Solidity
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="45" height="45" alt="MongoDB" data-canonical-src="https://skillicons.dev/icons?i=mongodb" style="max-width: 100%;"></a>
       <br>MDB
@@ -183,7 +182,6 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c68bb28b0da51cd56ff4f358c3d62647680f1c95b43c1a3b86f22c85f078aec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73716c697465"><img src="https://camo.githubusercontent.com/5c68bb28b0da51cd56ff4f358c3d62647680f1c95b43c1a3b86f22c85f078aec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73716c697465" width="45" height="45" alt="SQLite" data-canonical-src="https://skillicons.dev/icons?i=sqlite" style="max-width: 100%;"></a>
       <br>SQLite
-    </td>
     </td>
     </tr>
   </tbody>
