@@ -14,113 +14,192 @@ Hi there! I'm Stephen, a passionate Software Engineer focused on building scalab
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-
-
-### 🗄️ Databases & Cloud
-
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=for-the-badge)](https://restfulapi.net/)
-
-
-### 🗄️ Développement Frontend
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-</div>
-
-### 🗄️ Développement Backend
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</div>
-
-
-</div>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=python">
+          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=js">
+          <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=ts">
+          <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=nodejs">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=react">
+          <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=mongodb">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=postgres">
+          <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=graphql">
+          <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=angular">
+          <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        </a>
+        <br>Angular
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=flutter">
+          <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+        </a>
+        <br>Flutter
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=html">
+          <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=kotlin">
+          <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin" />
+        </a>
+        <br>Kotlin
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=nextjs">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=photoshop">
+          <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
+        </a>
+        <br>Photoshop
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=react">
+          <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React Native" />
+        </a>
+        <br>React Native
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=redux">
+          <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
+        </a>
+        <br>Redux
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=sass">
+          <img src="https://skillicons.dev/icons?i=sass" width="45" height="45" alt="Sass" />
+        </a>
+        <br>Sass
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=svelte">
+          <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
+        </a>
+        <br>Svelte
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=tailwind">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=vue">
+          <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js" />
+        </a>
+        <br>Vue.js
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=webpack">
+          <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack" />
+        </a>
+        <br>Webpack
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=cassandra">
+          <img src="https://skillicons.dev/icons?i=cassandra" width="45" height="45" alt="Cassandra" />
+        </a>
+        <br>Cassandra
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=express">
+          <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+        </a>
+        <br>Express
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=firebase">
+          <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+        </a>
+        <br>Firebase
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=git">
+          <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=mysql">
+          <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=nginx">
+          <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
+        </a>
+        <br>Nginx
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=oracle">
+          <img src="https://skillicons.dev/icons?i=oracle" width="45" height="45" alt="Oracle" />
+        </a>
+        <br>Oracle
+      </td>
+      <td align="center" width="90">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=sqlite">
+          <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+        </a>
+        <br>SQLite
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📊 GitHub Stats
 
